@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ -z "$1" ]
+  then
+    COMMIT_MESSAGE="Empty commit message"
+  else
+    COMMIT_MESSAGE=$1
+fi
+
+git add .
+git commit -m "$COMMIT_MESSAGE"
+git push

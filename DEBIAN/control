@@ -1,0 +1,10 @@
+Package: pusher
+Version: 1.0
+Architecture: all
+Maintainer: Golov Pavel
+Installed-Size: 6
+Depends: bash, git
+Section: 1
+Priority: optional
+Homepage: https://github.com/GolovPavel/pusher
+Description: Script for automation git push process
