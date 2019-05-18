@@ -4,7 +4,7 @@ Architecture: all
 Maintainer: Golov Pavel
 Installed-Size: 6
 Depends: bash, git
-Section: 1
+Section: utils
 Priority: optional
 Homepage: https://github.com/GolovPavel/pusher
 Description: Script for automation git push process
