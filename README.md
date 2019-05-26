@@ -15,13 +15,13 @@ Under the hood it makes three things:
 
 ## Usage
 
-Push to the remote repository local changes with some message:
+Push to the remote repository all local changes with some message:
 
 ```
 pusher "Some message"
 ```
 
-Push to the remote repository local changes with default message:
+Push to the remote repository all local changes with default message:
 
 ```
 pusher
