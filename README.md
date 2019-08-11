@@ -8,9 +8,9 @@ Under the hood it makes three things:
 
 ## Installation
 
-1. Clone the current repository: `https://github.com/GolovPavel/pusher.git`.
-2. Install `gdebi` package, if you do not have it: `sudo apt-get install gdebi`.
-3. Go to the pusher directory: `cd pusher`.
+1. Clone the current repository: `https://github.com/GolovPavel/pusher.git`
+2. Install `gdebi` package, if you do not have it: `sudo apt-get install gdebi`
+3. Go to the pusher directory: `cd pusher`
 4. Install pusher package: `sudo gdebi "pusher.deb"`
 
 ## Usage
