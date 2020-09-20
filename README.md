@@ -6,7 +6,7 @@ Under the hood it makes three things:
 - commit changes;
 - push changes in the current remote branch.
 
-## Installation
+## Linux installation
 
 1. Clone the current repository: `https://github.com/GolovPavel/pusher.git`
 2. Install `gdebi` package, if you do not have it: `sudo apt-get install gdebi`
