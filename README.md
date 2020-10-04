@@ -15,7 +15,7 @@ Under the hood it makes three things:
 
 ## Macos installation
 
-1. Clone the current repository: `https://github.com/GolovPavel/pusher.git`;
+1. Clone the current repository: `git clone https://github.com/GolovPavel/pusher.git`;
 2. Make `pusher` script executable: `sudo chmod +x pusher/bin/pusher`;
 3. Copy script to the one of the `$PATH` directories. For example: `cp pusher/bin/pusher /usr/local/bin`.
 4. Restart shell.
